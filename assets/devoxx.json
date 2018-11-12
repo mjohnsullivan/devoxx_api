@@ -1,0 +1,102 @@
+[
+    {
+        "id": 24,
+        "name": "Voxxed Days Thessaloniki 2018",
+        "eventType": "VOXXED",
+        "fromDate": "2018-11-19",
+        "endDate": "2018-11-20",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/dc58a482-029e-47c4-8c1e-20f6917cd712.jpg",
+        "website": "https://voxxeddays.com/thessaloniki",
+        "cfpURL": "https://vdthess18.confinabox.com/"
+    },
+    {
+        "id": 23,
+        "name": "Voxxed Days Cluj-Napoca 2018",
+        "eventType": "VOXXED",
+        "fromDate": "2018-11-21",
+        "endDate": "2018-11-22",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/be07ff63-3858-4a51-9706-09896af2bf68.jpg",
+        "website": "https://romania.voxxeddays.com/cluj-napoca/2018-11-22/",
+        "cfpURL": "https://cluj-2018.confinabox.com"
+    },
+    {
+        "id": 46,
+        "name": "Voxxed Days Zurich 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-03-19",
+        "endDate": "2019-03-19",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/19ebbed9-d5f5-4c65-a1a8-e982e71339be.jpg",
+        "website": "https://voxxeddays.com/zurich/",
+        "cfpURL": "https://cfpvdz19.confinabox.com"
+    },
+    {
+        "id": 52,
+        "name": "Voxxed Days Bucharest 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-03-20",
+        "endDate": "2019-03-22",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/2495187d-dad8-4b04-9db1-75b43dfa5f5c.jpg",
+        "website": "https://romania.voxxeddays.com/bucharest/",
+        "cfpURL": "https://www.papercall.io/vdbuh2019"
+    },
+    {
+        "id": 42,
+        "name": "Voxxed Days Milano 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-04-13",
+        "endDate": "2019-04-13",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/4e7a8946-5fd4-4aeb-8493-4af57773e3a6.jpg",
+        "website": "https://voxxeddays.com/milan",
+        "cfpURL": "vxdmilan2019@confinabox.com"
+    },
+    {
+        "id": 55,
+        "name": "Voxxed Days Melbourne 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-05-13",
+        "endDate": "2019-05-14",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/631599f9-9cdc-49eb-8988-2c2fd4100bf6.jpg",
+        "website": "https://australia.voxxeddays.com/",
+        "cfpURL": "vxdmelbourne2019.confinabox.com"
+    },
+    {
+        "id": 56,
+        "name": "Voxxed Days Sydney 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-05-16",
+        "endDate": "2019-05-17",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/ff52b1d5-c9a1-4ac4-8899-1ff8cfc13744.jpg",
+        "website": "https://australia.voxxeddays.com/",
+        "cfpURL": "vxdsydney2019.confinabox.com"
+    },
+    {
+        "id": 51,
+        "name": "Voxxed Days Minsk 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-05-24",
+        "endDate": "2019-05-25",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/232b9b06-4a53-41b4-b3c0-7a8cc015143e.png",
+        "website": "https://voxxeddays.com/minsk/",
+        "cfpURL": null
+    },
+    {
+        "id": 54,
+        "name": "Voxxed Days Singapore 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-05-30",
+        "endDate": "2019-05-31",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/78d09030-7dab-4207-9ac6-52ae902aa895.jpg",
+        "website": "https://voxxeddays.com/singapore/",
+        "cfpURL": "vxdsingapore2019.confinabox.com"
+    },
+    {
+        "id": 48,
+        "name": "Voxxed Days Athens 2019",
+        "eventType": "VOXXED",
+        "fromDate": "2019-05-31",
+        "endDate": "2019-06-01",
+        "imageURL": "https://s3-eu-west-1.amazonaws.com/voxxeddays/webapp/images/6e045f45-a09f-40a8-b8f9-3bfb9b044dff.jpg",
+        "website": "https://voxxeddays.com/athens/",
+        "cfpURL": null
+    }
+]
