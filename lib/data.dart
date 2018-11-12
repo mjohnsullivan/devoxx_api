@@ -37,15 +37,16 @@ class Conference {
   }
 
   @override
-  bool operator ==(o) =>
-      o is Conference &&
-      o.id == id &&
-      o.name == name &&
-      o.from == from &&
-      o.to == to &&
-      o.imageUrl == imageUrl &&
-      o.siteUrl == siteUrl &&
-      o.cfpUrl == cfpUrl;
+  bool operator ==(o) {
+    return o is Conference &&
+        o.id == id &&
+        o.name == name &&
+        o.from == from &&
+        o.to == to &&
+        o.imageUrl == imageUrl &&
+        o.siteUrl == siteUrl &&
+        o.cfpUrl == cfpUrl;
+  }
 
   @override
   int get hashCode => id;
@@ -67,6 +68,8 @@ Future<List<Conference>> getConferencesFromNetwork() async {
         .decode(res.body)
         .map<Conference>((jsonConf) => Conference.parse(jsonConf))
         .toList();
+  } else {
+    throw Exception(res.statusCode.toString());
   }
 }
 
