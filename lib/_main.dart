@@ -48,7 +48,7 @@ class ConferenceTile extends StatelessWidget {
         backgroundImage: NetworkImage(conference.imageUrl),
       ),
       title: Text(conference.name),
-      subtitle: Text(prettryPrintFromTo(conference.from, conference.to)),
+      subtitle: Text(prettyPrintFromTo(conference.from, conference.to)),
       onTap: () => launchBrowser(conference.siteUrl),
     );
   }

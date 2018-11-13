@@ -76,7 +76,7 @@ Future<List<Conference>> getConferencesFromNetwork() async {
 String prettyPrintDate(DateTime date) =>
     '${date.year}-${date.month}-${date.day}';
 
-String prettryPrintFromTo(DateTime from, DateTime to) =>
+String prettyPrintFromTo(DateTime from, DateTime to) =>
     '${prettyPrintDate(from)} - ${prettyPrintDate(to)}';
 
 void launchBrowser(String url) async {
